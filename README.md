@@ -8,8 +8,8 @@ This projec is able to detect length of amrs and shoulder to neck distance. I ha
 - Three input options: images, video
 
 ### Python
-- `cd length-detection-using-human-pose-estimation/python`
-- `ipython notebook`
+- `cd length-detection-using-human-pose-estimation`
+- `jupyter notebook`
 - Open `OpenPose_Notebook.ipynb` and execute the code for image
 - Open `video.ipynb` and execute the code for video
 
