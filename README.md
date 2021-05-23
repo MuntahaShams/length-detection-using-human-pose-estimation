@@ -16,6 +16,6 @@ This projec is able to detect length of amrs and shoulder to neck distance. I ha
 ### to download weight file 
 [[MPII weights]](http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/mpi/pose_iter_160000.caffemodel)
 
-<p align="left">
-<img src="https://github.com/MuntahaShams/length-detection-using-human-pose-estimation/single1.jpeg", width="720">
-</p>
+##Results
+<img src="https://github.com/MuntahaShams/length-detection-using-human-pose-estimation/single.jpeg", width="720">
+
