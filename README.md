@@ -3,7 +3,7 @@ This projec is able to detect length of amrs and shoulder to neck distance. I ha
 
 ## Testing
 
-### C++ (realtime version, for demo purpose)
+### C++ 
 - Please use [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose), now it can run in CPU/ GPU and windows /Ubuntu.
 - Three input options: images, video
 
@@ -12,3 +12,6 @@ This projec is able to detect length of amrs and shoulder to neck distance. I ha
 - `ipython notebook`
 - Open `OpenPose_Notebook.ipynb` and execute the code for image
 - Open `video.ipynb` and execute the code for video
+
+### to download weight file 
+MPII weights [[version 1]](http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/mpi/pose_iter_160000.caffemodel)
